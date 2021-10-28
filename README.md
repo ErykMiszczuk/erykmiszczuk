@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Eric</h1>
-<h3 align="center">A IT engineer from Poland</h3>
+<h3 align="center">An IT engineer from Poland</h3>
 
 - 🌱 I’m currently learning **Godot game engine and Nuxt**
 
